@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Xuan Chinh Blog",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Hi, I'm XuanChinh97",
+    "siteUrl": "https://xuanchinhblog.netlify.app/",
+    "image": "/assets/97.jpg",
+    "iconimage": "/assets/97.jpg",
+    "twitterUsername": "@chinhdz97"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
