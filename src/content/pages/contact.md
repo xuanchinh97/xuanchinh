@@ -1,7 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contact
 ---
 Want to make friend, have interesting ideas, or just want to say hello, please don't hesitate.
 
