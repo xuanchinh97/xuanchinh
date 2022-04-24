@@ -3,10 +3,9 @@ template: index-page
 slug: /
 title: Xuan Chinh
 tagline: Front-End Developer
-featuredImage: /assets/screenshot-129-.png
+featuredImage: /assets/1649742329757.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I like number 97
