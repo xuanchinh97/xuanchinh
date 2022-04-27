@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-I like number 97
+I like number 97.
