@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Xuan Chinh
 tagline: Front-End Developer
-featuredImage: /assets/1649742329757.jpg
+featuredImage: /assets/logo.png
 cta:
   ctaText: Know more
   ctaLink: /about
