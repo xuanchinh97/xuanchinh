@@ -12,7 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        A litte {" "}
+        A little {" "}
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
